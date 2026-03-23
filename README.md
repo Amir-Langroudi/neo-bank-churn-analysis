@@ -60,7 +60,7 @@ Users are considered churned after 30 days of inactivity.
 ### Key Insights
 
 #### User Activity vs Churn
-![Activity vs Churn](images/Activity_vs_Churn.png)
+![Activity vs Churn](images/Activity_vs_Churn.PNG)
 
 #### Retention Analysis
 ![Retention](images/Retention_Early_Engagement.png)
