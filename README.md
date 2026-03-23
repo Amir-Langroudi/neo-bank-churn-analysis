@@ -56,10 +56,17 @@ Users are considered churned after 30 days of inactivity.
 - Focus on high-risk segments
 
 ## Dashboard
-Power BI dashboards were created to track:
-- Churn rate
-- Retention cohorts
-- User engagement
+
+### Key Insights
+
+#### User Activity vs Churn
+![Activity vs Churn](images/User Activity vs Churn.png)
+
+#### Retention Analysis
+![Retention](images/Retention  Early Engagement.png)
+
+#### Notifications Impact
+![Notifications](images/Notifications vs Churn.png)
 
 ## Conclusion
 Churn is primarily driven by low engagement and inactivity. Improving early user activity, optimizing communication strategies, and targeting high-risk users can significantly improve retention.
