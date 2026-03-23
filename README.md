@@ -63,10 +63,10 @@ Users are considered churned after 30 days of inactivity.
 ![Activity vs Churn](images/Activity_vs_Churn.PNG)
 
 #### Retention Analysis
-![Retention](images/Retention_Early_Engagement.png)
+![Retention](images/Retention_Early_Engagement.PNG)
 
 #### Notifications Impact
-![Notifications](images/Notifications_vs_Churn.png)
+![Notifications](images/Notifications_vs_Churn.PNG)
 
 ## Conclusion
 Churn is primarily driven by low engagement and inactivity. Improving early user activity, optimizing communication strategies, and targeting high-risk users can significantly improve retention.
